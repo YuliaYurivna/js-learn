@@ -1,3 +1,4 @@
+// import modul
 // import sumNumbers from './79-modul-one.mjs'
 
 // const res1 = sumNumbers(10, 2);
